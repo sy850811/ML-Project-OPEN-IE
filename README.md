@@ -108,19 +108,6 @@ ML-Project-OPEN-IE-main/
 
 ---
 
-## Visualizations
-
-### Architecture Diagram
-![Bi-LSTM Architecture](link_to_architecture_diagram)
-
-### Sample Dataset Overview
-![Dataset Visualization](link_to_dataset_visualization)
-
-### Performance Metrics
-![Metrics Chart](link_to_metrics_chart)
-
----
-
 ## Acknowledgements
 
 This project was developed as part of a machine learning coursework/project. Special thanks to the contributors and mentors who guided this research.
